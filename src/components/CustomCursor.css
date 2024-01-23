@@ -1,0 +1,19 @@
+/* CustomCursor.css */
+.custom-cursor {
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+}
+
+.cursor-image {
+  width: 40px; /* Set width and height for your cursor */
+  height: 40px;
+  position: fixed;
+  user-drag: none;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  /* Adjust other styles as needed */
+}
+.selecting .cursor-image {
+  content: url('/src/assets/icons/Select.png'); /* Replace with your selected image path */
+}
