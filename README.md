@@ -23,3 +23,7 @@ You can choose between two React plugins:
 - For Babel (default):
   ```bash
   npm install --save-dev @vitejs/plugin-react
+
+Webiste is live to see now:
+
+https://bucolic-griffin-11411c.netlify.app/
