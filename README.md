@@ -26,4 +26,4 @@ You can choose between two React plugins:
 
 Webiste is live to see now:
 
-https://bucolic-griffin-11411c.netlify.app/
+https://manoharjunga.netlify.app/
